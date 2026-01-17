@@ -1,0 +1,10 @@
+# Ignorar carpetas temporales de Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Opcional: Si el archivo de datos es muy grande, ignóralo:
+ data/netflix_titles.csv
