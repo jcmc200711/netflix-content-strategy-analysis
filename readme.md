@@ -23,7 +23,7 @@ To ensure data quality, the following steps were performed:
 * **Segmentation:** Split the main dataset into two focused DataFrames: `movies` and `tv_shows`.
 
 ### 2. Key Insights
-* **Format Dominance:** Movies account for ~70% of the catalog; however, TV Shows have shown a steady growth rate of X% year-over-year.
+* **Format Dominance:** Movies account for ~69.1% of the catalog; however, TV Shows have shown a steady growth rate of X% year-over-year.
 * **Global Production:** The US, India, and the UK are the top contributors, though international content (non-US) has spiked since 2018.
 * **Content Rating:** "TV-MA" is the most frequent rating, indicating a strategic focus on mature audiences.
 
